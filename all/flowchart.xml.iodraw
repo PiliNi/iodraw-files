@@ -1261,7 +1261,7 @@
         <mxCell id="3thUinFDM4QFr9FxfZfd-2" value="detect ready file" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="3thUinFDM4QFr9FxfZfd-4">
           <mxGeometry x="10" y="15" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="3thUinFDM4QFr9FxfZfd-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="3thUinFDM4QFr9FxfZfd-5" target="3thUinFDM4QFr9FxfZfd-13">
+        <mxCell id="3thUinFDM4QFr9FxfZfd-14" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="3thUinFDM4QFr9FxfZfd-5" target="3thUinFDM4QFr9FxfZfd-13">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="3thUinFDM4QFr9FxfZfd-15" value="validate pass" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="3thUinFDM4QFr9FxfZfd-14">
@@ -1292,7 +1292,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="3thUinFDM4QFr9FxfZfd-13" value="move (ready)file to ./backup" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="580" y="540" width="170" height="60" as="geometry" />
+          <mxGeometry x="470" y="410" width="170" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
