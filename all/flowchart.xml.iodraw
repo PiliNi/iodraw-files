@@ -1266,7 +1266,7 @@
         </mxCell>
         <mxCell id="3thUinFDM4QFr9FxfZfd-15" value="validate pass" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="3thUinFDM4QFr9FxfZfd-14">
           <mxGeometry x="-0.3474" y="2" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="14" y="-8" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="3thUinFDM4QFr9FxfZfd-5" value="import tool" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -1288,7 +1288,7 @@
         </mxCell>
         <mxCell id="3thUinFDM4QFr9FxfZfd-12" value="ready file exists" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="3thUinFDM4QFr9FxfZfd-11">
           <mxGeometry x="-0.216" y="2" relative="1" as="geometry">
-            <mxPoint x="11" y="-18" as="offset" />
+            <mxPoint x="11" y="-13" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="3thUinFDM4QFr9FxfZfd-13" value="move (ready)file to ./backup" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
