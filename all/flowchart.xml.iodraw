@@ -1266,7 +1266,7 @@
         </mxCell>
         <mxCell id="3thUinFDM4QFr9FxfZfd-15" value="validate pass" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="3thUinFDM4QFr9FxfZfd-14">
           <mxGeometry x="-0.3474" y="2" relative="1" as="geometry">
-            <mxPoint x="14" y="-8" as="offset" />
+            <mxPoint x="14" y="-16" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="3thUinFDM4QFr9FxfZfd-5" value="import RQ2075 tool" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
