@@ -1252,7 +1252,7 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="3thUinFDM4QFr9FxfZfd-16" value="File detection tool" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=#d5e8d4;strokeColor=#82b366;align=left;horizontal=1;verticalAlign=top;" vertex="1" parent="1">
+        <mxCell id="3thUinFDM4QFr9FxfZfd-16" value="file detection tool" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=#d5e8d4;strokeColor=#82b366;align=left;horizontal=1;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="230" y="360" width="430" height="150" as="geometry" />
         </mxCell>
         <mxCell id="3thUinFDM4QFr9FxfZfd-4" value="" style="group" vertex="1" connectable="0" parent="1">
