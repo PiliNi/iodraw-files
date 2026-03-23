@@ -1252,11 +1252,8 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="3thUinFDM4QFr9FxfZfd-16" value="File detection tool" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=#d5e8d4;strokeColor=#82b366;align=left;horizontal=1;" vertex="1" parent="1">
-          <mxGeometry x="230" y="360" width="430" height="150" as="geometry" />
-        </mxCell>
         <mxCell id="3thUinFDM4QFr9FxfZfd-4" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="250" y="410" width="130" height="60" as="geometry" />
+          <mxGeometry x="120" y="540" width="130" height="60" as="geometry" />
         </mxCell>
         <mxCell id="3thUinFDM4QFr9FxfZfd-3" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="3thUinFDM4QFr9FxfZfd-4">
           <mxGeometry x="5" width="120" height="60" as="geometry" />
@@ -1264,15 +1261,15 @@
         <mxCell id="3thUinFDM4QFr9FxfZfd-2" value="detect ready file" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="3thUinFDM4QFr9FxfZfd-4">
           <mxGeometry x="10" y="15" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="3thUinFDM4QFr9FxfZfd-14" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="3thUinFDM4QFr9FxfZfd-5" target="3thUinFDM4QFr9FxfZfd-13">
+        <mxCell id="3thUinFDM4QFr9FxfZfd-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="3thUinFDM4QFr9FxfZfd-5" target="3thUinFDM4QFr9FxfZfd-13">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="3thUinFDM4QFr9FxfZfd-15" value="validate pass" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="3thUinFDM4QFr9FxfZfd-14">
           <mxGeometry x="-0.3474" y="2" relative="1" as="geometry">
-            <mxPoint x="14" y="-16" as="offset" />
+            <mxPoint x="14" y="-8" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="3thUinFDM4QFr9FxfZfd-5" value="import RQ2075 tool" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="3thUinFDM4QFr9FxfZfd-5" value="validation engine" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="365" y="540" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="3thUinFDM4QFr9FxfZfd-8" value="Email Notification" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.message;pointerEvents=1;" vertex="1" parent="1">
@@ -1286,16 +1283,16 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="3thUinFDM4QFr9FxfZfd-11" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="3thUinFDM4QFr9FxfZfd-3" target="3thUinFDM4QFr9FxfZfd-5">
+        <mxCell id="3thUinFDM4QFr9FxfZfd-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="3thUinFDM4QFr9FxfZfd-2" target="3thUinFDM4QFr9FxfZfd-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="3thUinFDM4QFr9FxfZfd-12" value="ready file exists" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="3thUinFDM4QFr9FxfZfd-11">
           <mxGeometry x="-0.216" y="2" relative="1" as="geometry">
-            <mxPoint x="-16" y="-13" as="offset" />
+            <mxPoint x="11" y="-13" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="3thUinFDM4QFr9FxfZfd-13" value="move (ready)file to ./backup" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="470" y="410" width="170" height="60" as="geometry" />
+          <mxGeometry x="580" y="540" width="170" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
