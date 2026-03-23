@@ -1261,7 +1261,7 @@
         <mxCell id="3thUinFDM4QFr9FxfZfd-2" value="detect ready file" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="3thUinFDM4QFr9FxfZfd-4">
           <mxGeometry x="10" y="15" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="3thUinFDM4QFr9FxfZfd-5" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="3thUinFDM4QFr9FxfZfd-5" value="import tool" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="365" y="540" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
