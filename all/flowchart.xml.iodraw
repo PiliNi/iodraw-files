@@ -1280,8 +1280,11 @@
         </mxCell>
         <mxCell id="3thUinFDM4QFr9FxfZfd-12" value="ready file exists" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="3thUinFDM4QFr9FxfZfd-11">
           <mxGeometry x="-0.216" y="2" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="11" y="-18" as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="3thUinFDM4QFr9FxfZfd-13" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="570" y="540" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
