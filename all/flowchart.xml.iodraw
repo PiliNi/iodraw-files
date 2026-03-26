@@ -1248,7 +1248,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="ZN3NDkzTsW9Sd2FnKJus-3" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/general/File.svg;" vertex="1" parent="1">
-          <mxGeometry x="114" y="550" width="56.00000000000001" height="69" as="geometry" />
+          <mxGeometry x="60" y="690" width="32.46" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
