@@ -1251,7 +1251,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="ZN3NDkzTsW9Sd2FnKJus-4" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="1470" y="710" width="130" height="95" as="geometry" />
+          <mxGeometry x="1480" y="694" width="130" height="95" as="geometry" />
         </mxCell>
         <mxCell id="ZN3NDkzTsW9Sd2FnKJus-5" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;" vertex="1" parent="ZN3NDkzTsW9Sd2FnKJus-4">
           <mxGeometry x="50" width="60" height="60" as="geometry" />
@@ -1265,10 +1265,15 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="ZN3NDkzTsW9Sd2FnKJus-10" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#232F3D;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.email_2;" vertex="1" parent="1">
-          <mxGeometry x="1511" y="837" width="78" height="49" as="geometry" />
+          <mxGeometry x="1522" y="861" width="78" height="49" as="geometry" />
         </mxCell>
         <mxCell id="ZN3NDkzTsW9Sd2FnKJus-12" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="MJs6HG7lQkrDtwAawm4V-121" target="ZN3NDkzTsW9Sd2FnKJus-10">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZN3NDkzTsW9Sd2FnKJus-13" value="&lt;span style=&quot;font-size: 12px; background-color: rgb(251, 251, 251);&quot;&gt;Email Notification&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ZN3NDkzTsW9Sd2FnKJus-12">
+          <mxGeometry x="-0.2685" y="-3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
