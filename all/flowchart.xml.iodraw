@@ -1017,7 +1017,7 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="ZN3NDkzTsW9Sd2FnKJus-1" value="&lt;h1&gt;s&lt;/h1&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+        <mxCell id="ZN3NDkzTsW9Sd2FnKJus-1" value="&lt;h1&gt;s&lt;/h1&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry y="590" width="1488" height="380" as="geometry" />
         </mxCell>
         <mxCell id="MJs6HG7lQkrDtwAawm4V-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="MJs6HG7lQkrDtwAawm4V-26" target="MJs6HG7lQkrDtwAawm4V-5" edge="1">
@@ -1246,9 +1246,6 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="620" y="747" as="sourcePoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="ZN3NDkzTsW9Sd2FnKJus-2" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="230" y="370" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
