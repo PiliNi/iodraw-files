@@ -1267,9 +1267,6 @@
         <mxCell id="ZN3NDkzTsW9Sd2FnKJus-10" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#232F3D;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.email_2;" vertex="1" parent="1">
           <mxGeometry x="1511" y="837" width="78" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="ZN3NDkzTsW9Sd2FnKJus-11" value="Email Notification" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1470" y="888" width="120" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="ZN3NDkzTsW9Sd2FnKJus-12" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="MJs6HG7lQkrDtwAawm4V-121" target="ZN3NDkzTsW9Sd2FnKJus-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
