@@ -33,14 +33,14 @@
         <mxCell id="HfQdQcBVbcNaBwqVmaRd-6" value="strict" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="495" y="48" width="50" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="HfQdQcBVbcNaBwqVmaRd-7" value="fields, rues = schema.fields" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-30" y="280" width="120" height="60" as="geometry" />
+        <mxCell id="HfQdQcBVbcNaBwqVmaRd-7" value="fields, rules = schema.fields" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-30" y="280" width="200" height="60" as="geometry" />
         </mxCell>
         <mxCell id="HfQdQcBVbcNaBwqVmaRd-10" value="ctx&lt;br&gt;(row level)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="70" y="410" width="110" height="35" as="geometry" />
+          <mxGeometry x="20" y="370" width="110" height="35" as="geometry" />
         </mxCell>
         <mxCell id="HfQdQcBVbcNaBwqVmaRd-11" value="row.get(field)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="70" y="480" width="110" height="30" as="geometry" />
+          <mxGeometry x="20" y="430" width="110" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
