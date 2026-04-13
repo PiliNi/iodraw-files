@@ -60,10 +60,10 @@
           <mxGeometry x="170" y="770" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="HfQdQcBVbcNaBwqVmaRd-4" value="ValidationEngine" style="rounded=1;whiteSpace=wrap;html=1;horizontal=1;verticalAlign=top;align=left;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="450" y="750" width="170" height="110" as="geometry" />
+          <mxGeometry x="310" y="770" width="170" height="50" as="geometry" />
         </mxCell>
         <mxCell id="HfQdQcBVbcNaBwqVmaRd-5" value="Schema" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="470" y="775" width="120" height="60" as="geometry" />
+          <mxGeometry x="470" y="775" width="130" height="15" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
