@@ -202,7 +202,7 @@
           <mxGeometry x="435" y="1440" width="151.25" height="40" as="geometry" />
         </mxCell>
         <mxCell id="hZoo-6T05gEhThlXy8d1-43" value="RecordTypeAssignStage" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="435" y="1240" width="151.25" height="40" as="geometry" />
+          <mxGeometry x="650" y="1290" width="151.25" height="40" as="geometry" />
         </mxCell>
         <mxCell id="hZoo-6T05gEhThlXy8d1-45" value="NormalizationStage" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="435" y="1290" width="151.25" height="40" as="geometry" />
