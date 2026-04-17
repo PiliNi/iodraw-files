@@ -165,6 +165,9 @@
         <mxCell id="hZoo-6T05gEhThlXy8d1-55" value="import rq2075" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="50" y="950" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="hZoo-6T05gEhThlXy8d1-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="hZoo-6T05gEhThlXy8d1-56" target="hZoo-6T05gEhThlXy8d1-58">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="hZoo-6T05gEhThlXy8d1-56" value="check&amp;nbsp;&lt;span style=&quot;font-family: &amp;quot;Segoe UI&amp;quot;; font-size: 14px; text-align: start; background-color: initial;&quot;&gt;existence for&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;dot ready file and csv file&amp;nbsp;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="50" y="1040" width="120" height="60" as="geometry" />
         </mxCell>
