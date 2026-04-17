@@ -93,7 +93,7 @@
         <mxCell id="hZoo-6T05gEhThlXy8d1-16" value="CsvFileSink" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="370" y="1385" width="110" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="hZoo-6T05gEhThlXy8d1-20" value="CsvFileSource" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=8 8;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="hZoo-6T05gEhThlXy8d1-20" value="CsvFileSource" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=8 8;strokeColor=#2d58d7;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="540" y="590" width="110" height="40" as="geometry" />
         </mxCell>
       </root>
