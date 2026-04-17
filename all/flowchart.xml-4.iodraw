@@ -51,6 +51,9 @@
         <mxCell id="hZoo-6T05gEhThlXy8d1-2" value="CsvSource" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="360" y="620" width="160" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="hZoo-6T05gEhThlXy8d1-3" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="360" y="690" width="160" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
