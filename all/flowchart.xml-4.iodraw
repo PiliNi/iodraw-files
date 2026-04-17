@@ -85,13 +85,13 @@
           <mxGeometry x="370" y="1290" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="hZoo-6T05gEhThlXy8d1-13" value="Sink" style="rounded=0;whiteSpace=wrap;html=1;horizontal=0;verticalAlign=top;align=center;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="330" y="1370" width="155" height="70" as="geometry" />
+          <mxGeometry x="330" y="1470" width="155" height="70" as="geometry" />
         </mxCell>
         <mxCell id="hZoo-6T05gEhThlXy8d1-15" value="CsvFileSource" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="370" y="1085" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="hZoo-6T05gEhThlXy8d1-16" value="CsvFileSink" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="370" y="1385" width="110" height="40" as="geometry" />
+          <mxGeometry x="370" y="1485" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="hZoo-6T05gEhThlXy8d1-28" value="&#xa;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;HttpSource&lt;/span&gt;&#xa;&#xa;" style="ellipse;whiteSpace=wrap;html=1;dashed=1;strokeColor=#348bb7;align=center;verticalAlign=middle;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="450" y="539" width="130" height="30" as="geometry" />
@@ -121,16 +121,16 @@
           <mxGeometry x="540" y="760" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="hZoo-6T05gEhThlXy8d1-38" value="DBSink" style="ellipse;whiteSpace=wrap;html=1;dashed=1;strokeColor=#348bb7;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="490" y="870" width="120" height="30" as="geometry" />
+          <mxGeometry x="485" y="880" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="hZoo-6T05gEhThlXy8d1-40" value="KafkaSink" style="ellipse;whiteSpace=wrap;html=1;dashed=1;strokeColor=#348bb7;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="515" y="890" width="120" height="30" as="geometry" />
+          <mxGeometry x="510" y="900" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="hZoo-6T05gEhThlXy8d1-41" value="HttpSink" style="ellipse;whiteSpace=wrap;html=1;dashed=1;strokeColor=#348bb7;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="610" y="880" width="120" height="30" as="geometry" />
+          <mxGeometry x="605" y="890" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="hZoo-6T05gEhThlXy8d1-42" value="FileSink" style="ellipse;whiteSpace=wrap;html=1;dashed=1;strokeColor=#348bb7;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="490" y="910" width="120" height="30" as="geometry" />
+          <mxGeometry x="485" y="920" width="120" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
