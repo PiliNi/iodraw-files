@@ -105,8 +105,8 @@
         <mxCell id="hZoo-6T05gEhThlXy8d1-23" value="HttpSource" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=8 8;strokeColor=#2d58d7;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="530" y="565" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="hZoo-6T05gEhThlXy8d1-26" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="570" y="650" width="120" height="80" as="geometry" />
+        <mxCell id="hZoo-6T05gEhThlXy8d1-26" value="" style="ellipse;whiteSpace=wrap;html=1;dashed=1;dashPattern=8 8;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="570" y="650" width="110" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
