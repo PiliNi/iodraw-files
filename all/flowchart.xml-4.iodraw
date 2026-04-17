@@ -69,7 +69,7 @@
         <mxCell id="hZoo-6T05gEhThlXy8d1-9" value="Pipeline" style="rounded=0;whiteSpace=wrap;html=1;horizontal=1;verticalAlign=top;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="550" y="660" width="120" height="190" as="geometry" />
         </mxCell>
-        <mxCell id="hZoo-6T05gEhThlXy8d1-10" value="Stage" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="hZoo-6T05gEhThlXy8d1-10" value="ParserStage" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="555" y="690" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="hZoo-6T05gEhThlXy8d1-11" value="Stage" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
