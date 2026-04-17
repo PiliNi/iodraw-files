@@ -126,7 +126,7 @@
         <mxCell id="hZoo-6T05gEhThlXy8d1-8" value="Source" style="rounded=0;whiteSpace=wrap;html=1;horizontal=0;verticalAlign=top;align=center;" vertex="1" parent="hZoo-6T05gEhThlXy8d1-49">
           <mxGeometry width="220" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="hZoo-6T05gEhThlXy8d1-15" value="CsvFileSource" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="hZoo-6T05gEhThlXy8d1-49">
+        <mxCell id="hZoo-6T05gEhThlXy8d1-15" value="CSVFileSource" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="hZoo-6T05gEhThlXy8d1-49">
           <mxGeometry x="56.7741935483871" y="15" width="156.1290322580645" height="40" as="geometry" />
         </mxCell>
         <mxCell id="hZoo-6T05gEhThlXy8d1-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="hZoo-6T05gEhThlXy8d1-8" target="hZoo-6T05gEhThlXy8d1-9">
@@ -214,7 +214,7 @@
           <mxGeometry x="435" y="1340" width="151.25" height="40" as="geometry" />
         </mxCell>
         <mxCell id="hZoo-6T05gEhThlXy8d1-73" value="end" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="20" y="1660" width="120" height="60" as="geometry" />
+          <mxGeometry x="20" y="1660" width="180" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
