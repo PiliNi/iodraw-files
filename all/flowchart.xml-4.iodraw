@@ -117,7 +117,7 @@
         <mxCell id="hZoo-6T05gEhThlXy8d1-13" value="Sink" style="rounded=0;whiteSpace=wrap;html=1;horizontal=0;verticalAlign=top;align=center;" vertex="1" parent="hZoo-6T05gEhThlXy8d1-48">
           <mxGeometry width="220" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="hZoo-6T05gEhThlXy8d1-16" value="CsvFileSink" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="hZoo-6T05gEhThlXy8d1-48">
+        <mxCell id="hZoo-6T05gEhThlXy8d1-16" value="CSVFileSink" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="hZoo-6T05gEhThlXy8d1-48">
           <mxGeometry x="56.7741935483871" y="15" width="156.1290322580645" height="40" as="geometry" />
         </mxCell>
         <mxCell id="hZoo-6T05gEhThlXy8d1-49" value="" style="group" vertex="1" connectable="0" parent="WIyWlLk6GJQsqaUBKTNV-1">
@@ -213,7 +213,7 @@
         <mxCell id="hZoo-6T05gEhThlXy8d1-46" value="RowStage" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="435" y="1340" width="151.25" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="hZoo-6T05gEhThlXy8d1-73" value="end" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="hZoo-6T05gEhThlXy8d1-73" value="email notification" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="20" y="1660" width="180" height="50" as="geometry" />
         </mxCell>
       </root>
