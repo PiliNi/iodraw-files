@@ -129,11 +129,11 @@
         <mxCell id="hZoo-6T05gEhThlXy8d1-40" value="DBSink" style="ellipse;whiteSpace=wrap;html=1;dashed=1;strokeColor=#348bb7;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="520" y="895" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="hZoo-6T05gEhThlXy8d1-41" value="DBSink" style="ellipse;whiteSpace=wrap;html=1;dashed=1;strokeColor=#348bb7;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="530" y="905" width="120" height="30" as="geometry" />
+        <mxCell id="hZoo-6T05gEhThlXy8d1-41" value="HttpSink" style="ellipse;whiteSpace=wrap;html=1;dashed=1;strokeColor=#348bb7;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="660" y="880" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="hZoo-6T05gEhThlXy8d1-42" value="FileSink" style="ellipse;whiteSpace=wrap;html=1;dashed=1;strokeColor=#348bb7;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="540" y="915" width="120" height="30" as="geometry" />
+          <mxGeometry x="645" y="855" width="120" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
