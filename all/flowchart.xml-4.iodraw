@@ -174,7 +174,7 @@
         <mxCell id="hZoo-6T05gEhThlXy8d1-58" value="truncate table [rq2075 stg]" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="50" y="1130" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="hZoo-6T05gEhThlXy8d1-61" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="hZoo-6T05gEhThlXy8d1-61" value="import csv file&lt;br&gt;execute validation&lt;br&gt;write valid data to a temp file" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="50" y="1220" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
