@@ -15,8 +15,17 @@
         <mxCell id="Ef1A5CBa1qBCwZCRNPVA-0" value="csv file from &lt;br&gt;args or config.yml or data dir" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="105" y="170" width="230" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Ef1A5CBa1qBCwZCRNPVA-2" value="" style="points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];shape=mxgraph.bpmn.task;whiteSpace=wrap;rectStyle=rounded;size=10;html=1;container=1;expand=0;collapsible=0;taskMarker=abstract;isLoopComp=1;isLoopStandard=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="105" y="460" width="120" height="80" as="geometry" />
+        <mxCell id="Ef1A5CBa1qBCwZCRNPVA-3" value="" style="rounded=1;whiteSpace=wrap;html=1;container=1;collapsible=0;absoluteArcSize=1;arcSize=20;childLayout=stackLayout;horizontal=1;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;strokeWidth=8;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="240" y="340" width="120" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="Ef1A5CBa1qBCwZCRNPVA-4" value="" style="whiteSpace=wrap;connectable=0;html=1;shape=mxgraph.basic.rect;size=10;rectStyle=rounded;bottomRightStyle=square;bottomLeftStyle=square;part=1;" vertex="1" parent="Ef1A5CBa1qBCwZCRNPVA-3">
+          <mxGeometry width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Ef1A5CBa1qBCwZCRNPVA-5" value="" style="shape=mxgraph.bpmn.task;arcSize=0;part=1;taskMarker=abstract;isLoopStandard=1;connectable=0;whiteSpace=wrap;html=1;" vertex="1" parent="Ef1A5CBa1qBCwZCRNPVA-3">
+          <mxGeometry y="20" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ef1A5CBa1qBCwZCRNPVA-6" value="" style="whiteSpace=wrap;connectable=0;html=1;shape=mxgraph.basic.rect;size=10;rectStyle=rounded;topRightStyle=square;topLeftStyle=square;fillColor=#C0C0C0;part=1;" vertex="1" parent="Ef1A5CBa1qBCwZCRNPVA-3">
+          <mxGeometry y="80" width="120" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
