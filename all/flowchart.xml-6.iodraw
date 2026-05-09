@@ -27,8 +27,8 @@
         <mxCell id="Ef1A5CBa1qBCwZCRNPVA-11" value=".csv file exists?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="Ef1A5CBa1qBCwZCRNPVA-7">
           <mxGeometry x="120" y="260" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="Ef1A5CBa1qBCwZCRNPVA-13" value=".csv file exists?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="190" y="530" width="80" height="80" as="geometry" />
+        <mxCell id="Ef1A5CBa1qBCwZCRNPVA-13" value="validate rq2075.csv" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="Ef1A5CBa1qBCwZCRNPVA-7">
+          <mxGeometry x="120" y="370" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
