@@ -31,10 +31,10 @@
           <mxGeometry x="180" y="535" width="100" height="100" as="geometry" />
         </mxCell>
         <mxCell id="Ef1A5CBa1qBCwZCRNPVA-13" value="validate rq2075.csv" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="180" y="620" width="100" height="100" as="geometry" />
+          <mxGeometry x="180" y="680" width="100" height="100" as="geometry" />
         </mxCell>
         <mxCell id="Ef1A5CBa1qBCwZCRNPVA-15" value="write DB to staging table" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="180" y="750" width="100" height="100" as="geometry" />
+          <mxGeometry x="180" y="820" width="100" height="100" as="geometry" />
         </mxCell>
         <mxCell id="Ef1A5CBa1qBCwZCRNPVA-16" value="data housekeeping" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="170" y="1070" width="120" height="60" as="geometry" />
