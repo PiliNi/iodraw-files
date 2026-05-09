@@ -30,11 +30,11 @@
         <mxCell id="Ef1A5CBa1qBCwZCRNPVA-13" value="validate rq2075.csv" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="Ef1A5CBa1qBCwZCRNPVA-7">
           <mxGeometry x="120" y="380" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="Ef1A5CBa1qBCwZCRNPVA-15" value="write DB to staging data" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="Ef1A5CBa1qBCwZCRNPVA-7">
+        <mxCell id="Ef1A5CBa1qBCwZCRNPVA-15" value="write DB to staging table" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="Ef1A5CBa1qBCwZCRNPVA-7">
           <mxGeometry x="120" y="510" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="Ef1A5CBa1qBCwZCRNPVA-14" value="publish staging data" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="180" y="920" width="80" height="80" as="geometry" />
+          <mxGeometry x="180" y="890" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
