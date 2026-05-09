@@ -21,6 +21,9 @@
         <mxCell id="Ef1A5CBa1qBCwZCRNPVA-8" value="reset staging table" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Ef1A5CBa1qBCwZCRNPVA-7">
           <mxGeometry x="100" y="30" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="Ef1A5CBa1qBCwZCRNPVA-9" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="Ef1A5CBa1qBCwZCRNPVA-7">
+          <mxGeometry x="120" y="170" width="80" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
