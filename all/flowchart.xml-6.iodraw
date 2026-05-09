@@ -22,6 +22,9 @@
         <mxCell id="Ef1A5CBa1qBCwZCRNPVA-0" value=".csv file names from &lt;br&gt;args or config.yml or data dir" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="115" y="170" width="230" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="Ef1A5CBa1qBCwZCRNPVA-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Ef1A5CBa1qBCwZCRNPVA-14" target="Ef1A5CBa1qBCwZCRNPVA-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="Ef1A5CBa1qBCwZCRNPVA-14" value="publish staging data" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="180" y="960" width="100" height="100" as="geometry" />
         </mxCell>
@@ -43,8 +46,14 @@
         <mxCell id="Ef1A5CBa1qBCwZCRNPVA-11" value=".csv file exists?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="180" y="535" width="100" height="100" as="geometry" />
         </mxCell>
+        <mxCell id="Ef1A5CBa1qBCwZCRNPVA-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Ef1A5CBa1qBCwZCRNPVA-13" target="Ef1A5CBa1qBCwZCRNPVA-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="Ef1A5CBa1qBCwZCRNPVA-13" value="validate rq2075.csv" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="180" y="680" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="Ef1A5CBa1qBCwZCRNPVA-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Ef1A5CBa1qBCwZCRNPVA-15" target="Ef1A5CBa1qBCwZCRNPVA-14">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Ef1A5CBa1qBCwZCRNPVA-15" value="write DB to staging table" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="180" y="820" width="100" height="100" as="geometry" />
