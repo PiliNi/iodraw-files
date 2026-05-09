@@ -125,8 +125,8 @@
         <mxCell id="Ef1A5CBa1qBCwZCRNPVA-37" value="publish staging data" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="170" y="980" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Ef1A5CBa1qBCwZCRNPVA-45" value="&lt;span style=&quot;text-align: left;&quot;&gt;loop .csv file&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="500" y="290" width="123" height="60" as="geometry" />
+        <mxCell id="Ef1A5CBa1qBCwZCRNPVA-45" value="&lt;span style=&quot;text-align: left;&quot;&gt;loop .csv file&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;rotation=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="503" y="290" width="126" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
