@@ -19,7 +19,7 @@
         <mxCell id="Ef1A5CBa1qBCwZCRNPVA-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Ef1A5CBa1qBCwZCRNPVA-0" target="Ef1A5CBa1qBCwZCRNPVA-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Ef1A5CBa1qBCwZCRNPVA-0" value="which CSV files should process.&lt;br&gt;file names from &lt;br&gt;args or config.yml or data dir" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="Ef1A5CBa1qBCwZCRNPVA-0" value="which CSV files should process&lt;br&gt;(file name from args or config.yml or data dir)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="115" y="150" width="230" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Ef1A5CBa1qBCwZCRNPVA-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Ef1A5CBa1qBCwZCRNPVA-37" target="Ef1A5CBa1qBCwZCRNPVA-16">
