@@ -4,7 +4,7 @@
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
-        <mxCell id="Ef1A5CBa1qBCwZCRNPVA-45" value="&lt;span style=&quot;&quot;&gt;loop .csv file&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;rotation=0;spacing=10;verticalAlign=top;align=left;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="Ef1A5CBa1qBCwZCRNPVA-45" value="&lt;span style=&quot;font-size: 9px;&quot;&gt;loop .csv file&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;rotation=0;spacing=10;verticalAlign=top;align=left;fontSize=9;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="100" y="230" width="280" height="860" as="geometry" />
         </mxCell>
         <mxCell id="Ef1A5CBa1qBCwZCRNPVA-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-3" target="Ef1A5CBa1qBCwZCRNPVA-0">
@@ -93,7 +93,7 @@
             <mxPoint x="350" y="580" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Ef1A5CBa1qBCwZCRNPVA-48" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Ef1A5CBa1qBCwZCRNPVA-43">
+        <mxCell id="Ef1A5CBa1qBCwZCRNPVA-48" value="N" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Ef1A5CBa1qBCwZCRNPVA-43">
           <mxGeometry x="-0.867" y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -114,6 +114,11 @@
         <mxCell id="Ef1A5CBa1qBCwZCRNPVA-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Ef1A5CBa1qBCwZCRNPVA-15">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="350" y="730" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ef1A5CBa1qBCwZCRNPVA-49" value="N" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Ef1A5CBa1qBCwZCRNPVA-44">
+          <mxGeometry x="-0.8369" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Ef1A5CBa1qBCwZCRNPVA-15" value="write DB to staging table" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
