@@ -106,7 +106,7 @@
             <mxPoint x="187.5" y="919.9999999999998" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Ef1A5CBa1qBCwZCRNPVA-35" value="PASS" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];textShadow=0;" parent="Ef1A5CBa1qBCwZCRNPVA-26" vertex="1" connectable="0">
+        <mxCell id="Ef1A5CBa1qBCwZCRNPVA-35" value="Success" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];textShadow=0;" parent="Ef1A5CBa1qBCwZCRNPVA-26" vertex="1" connectable="0">
           <mxGeometry x="-0.0534" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -116,7 +116,7 @@
             <mxPoint x="307.5" y="690" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Ef1A5CBa1qBCwZCRNPVA-49" value="N" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];textShadow=0;" parent="Ef1A5CBa1qBCwZCRNPVA-44" vertex="1" connectable="0">
+        <mxCell id="Ef1A5CBa1qBCwZCRNPVA-49" value="Fail" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];textShadow=0;" parent="Ef1A5CBa1qBCwZCRNPVA-44" vertex="1" connectable="0">
           <mxGeometry x="-0.8369" y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
