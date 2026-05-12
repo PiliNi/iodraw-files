@@ -205,10 +205,10 @@
           <mxGeometry x="435" y="1440" width="151.25" height="40" as="geometry" />
         </mxCell>
         <mxCell id="hZoo-6T05gEhThlXy8d1-43" value="RecordTypeAssignHandler" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="435" y="1290" width="151.25" height="40" as="geometry" />
+          <mxGeometry x="435" y="1190" width="151.25" height="40" as="geometry" />
         </mxCell>
         <mxCell id="hZoo-6T05gEhThlXy8d1-45" value="NormalizationHandler" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="435" y="1240" width="151.25" height="40" as="geometry" />
+          <mxGeometry x="435" y="1290" width="151.25" height="40" as="geometry" />
         </mxCell>
         <mxCell id="hZoo-6T05gEhThlXy8d1-46" value="RowHandler" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="435" y="1340" width="151.25" height="40" as="geometry" />
