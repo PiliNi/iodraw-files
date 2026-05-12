@@ -109,15 +109,6 @@
         <mxCell id="Ef1A5CBa1qBCwZCRNPVA-30" value="End" style="rounded=1;whiteSpace=wrap;html=1;textShadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="127.5" y="1330" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="tl7bZ20Zdv0I8yrouIRK-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Ef1A5CBa1qBCwZCRNPVA-37">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="188" y="210" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="300" y="920" />
-              <mxPoint x="300" y="300" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="Ef1A5CBa1qBCwZCRNPVA-37" value="step 6&lt;br&gt;publish staging data" style="rounded=0;whiteSpace=wrap;html=1;textShadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="127.5" y="890" width="120" height="60" as="geometry" />
         </mxCell>
