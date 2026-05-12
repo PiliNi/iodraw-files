@@ -81,7 +81,7 @@
             <mxPoint x="14" y="-1" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Ef1A5CBa1qBCwZCRNPVA-13" value="step 3&lt;br&gt;schema validate rq2075.csv" style="rhombus;whiteSpace=wrap;html=1;textShadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="Ef1A5CBa1qBCwZCRNPVA-13" value="step 3&lt;br&gt;validate rq2075.csv" style="rhombus;whiteSpace=wrap;html=1;textShadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="137.5" y="550" width="100" height="100" as="geometry" />
         </mxCell>
         <mxCell id="Ef1A5CBa1qBCwZCRNPVA-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;textShadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Ef1A5CBa1qBCwZCRNPVA-15" target="Ef1A5CBa1qBCwZCRNPVA-37" edge="1">
