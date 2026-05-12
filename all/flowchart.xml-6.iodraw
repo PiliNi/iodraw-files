@@ -21,9 +21,10 @@
         <mxCell id="Ef1A5CBa1qBCwZCRNPVA-0" value="step 0 check parameters &lt;br&gt;CSV files&lt;br&gt;(file name from args -f or detect data dir)" style="rounded=0;whiteSpace=wrap;html=1;textShadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="72.5" y="110" width="230" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Ef1A5CBa1qBCwZCRNPVA-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;textShadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Ef1A5CBa1qBCwZCRNPVA-37" target="Ef1A5CBa1qBCwZCRNPVA-16" edge="1">
+        <mxCell id="Ef1A5CBa1qBCwZCRNPVA-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;textShadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Ef1A5CBa1qBCwZCRNPVA-37" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="187.5" y="1019.9999999999998" as="sourcePoint" />
+            <mxPoint x="187.5" y="1090" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Ef1A5CBa1qBCwZCRNPVA-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;textShadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Ef1A5CBa1qBCwZCRNPVA-9" target="Ef1A5CBa1qBCwZCRNPVA-11" edge="1">
@@ -109,17 +110,16 @@
             <mxPoint x="8" y="-1" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Ef1A5CBa1qBCwZCRNPVA-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;textShadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Ef1A5CBa1qBCwZCRNPVA-16" target="Ef1A5CBa1qBCwZCRNPVA-17" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="Ef1A5CBa1qBCwZCRNPVA-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;textShadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="187.51428571428573" y="1150" as="sourcePoint" />
+            <mxPoint x="187.5" y="1200" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="Ef1A5CBa1qBCwZCRNPVA-16" value="data housekeeping" style="rounded=0;whiteSpace=wrap;html=1;textShadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="127.5" y="1090" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="Ef1A5CBa1qBCwZCRNPVA-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;textShadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Ef1A5CBa1qBCwZCRNPVA-17" target="Ef1A5CBa1qBCwZCRNPVA-18" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="Ef1A5CBa1qBCwZCRNPVA-17" value="save job result to DB" style="rounded=0;whiteSpace=wrap;html=1;textShadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="127.5" y="1200" width="120" height="60" as="geometry" />
+        <mxCell id="Ef1A5CBa1qBCwZCRNPVA-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;textShadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" target="Ef1A5CBa1qBCwZCRNPVA-18" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="187.5" y="1260" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="Ef1A5CBa1qBCwZCRNPVA-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;textShadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Ef1A5CBa1qBCwZCRNPVA-18" target="Ef1A5CBa1qBCwZCRNPVA-30" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -149,6 +149,9 @@
         </mxCell>
         <mxCell id="tl7bZ20Zdv0I8yrouIRK-8" value="step 5&lt;br&gt;write DB to staging table" style="rounded=0;whiteSpace=wrap;html=1;textShadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="127.5" y="780" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tl7bZ20Zdv0I8yrouIRK-9" value="save job result to DB" style="rounded=0;whiteSpace=wrap;html=1;textShadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="127.5" y="1200" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
