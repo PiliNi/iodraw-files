@@ -126,12 +126,17 @@
             <mxPoint x="187.5" y="780" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="tl7bZ20Zdv0I8yrouIRK-20" value="Success" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="tl7bZ20Zdv0I8yrouIRK-3">
+          <mxGeometry x="-0.0465" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="tl7bZ20Zdv0I8yrouIRK-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="tl7bZ20Zdv0I8yrouIRK-0">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="300" y="699.9999999999998" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="tl7bZ20Zdv0I8yrouIRK-19" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="tl7bZ20Zdv0I8yrouIRK-16">
+        <mxCell id="tl7bZ20Zdv0I8yrouIRK-19" value="Fail" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="tl7bZ20Zdv0I8yrouIRK-16">
           <mxGeometry x="-0.1714" y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
