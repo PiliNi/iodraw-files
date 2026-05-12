@@ -114,7 +114,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Ef1A5CBa1qBCwZCRNPVA-18" value="send email notification" style="rounded=0;whiteSpace=wrap;html=1;textShadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="127.5" y="1310" width="120" height="60" as="geometry" />
+          <mxGeometry x="127.5" y="1220" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Ef1A5CBa1qBCwZCRNPVA-30" value="End" style="rounded=1;whiteSpace=wrap;html=1;textShadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="127.5" y="1410" width="120" height="60" as="geometry" />
@@ -144,6 +144,9 @@
         </mxCell>
         <mxCell id="tl7bZ20Zdv0I8yrouIRK-9" value="save job result to DB" style="rounded=0;whiteSpace=wrap;html=1;textShadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="127.5" y="990" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tl7bZ20Zdv0I8yrouIRK-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="tl7bZ20Zdv0I8yrouIRK-10" target="Ef1A5CBa1qBCwZCRNPVA-18">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="tl7bZ20Zdv0I8yrouIRK-10" value="data housekeeping" style="rounded=0;whiteSpace=wrap;html=1;textShadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="127.5" y="1109" width="120" height="60" as="geometry" />
