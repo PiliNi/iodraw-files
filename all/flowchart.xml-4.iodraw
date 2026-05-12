@@ -196,7 +196,7 @@
           <mxGeometry x="380" y="1180" width="220.00000000000003" height="310" as="geometry" />
         </mxCell>
         <mxCell id="hZoo-6T05gEhThlXy8d1-10" value="ParserHandler" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="435" y="1190" width="151.25" height="40" as="geometry" />
+          <mxGeometry x="676" y="1220" width="151.25" height="40" as="geometry" />
         </mxCell>
         <mxCell id="hZoo-6T05gEhThlXy8d1-11" value="FieldRecordTypeValidationHandler" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="435" y="1390" width="151.25" height="40" as="geometry" />
