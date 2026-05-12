@@ -146,7 +146,7 @@
         <mxCell id="tl7bZ20Zdv0I8yrouIRK-4" value="step 3&lt;br&gt;validate rq2075.csv" style="rounded=0;whiteSpace=wrap;html=1;textShadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="127.5" y="550" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="tl7bZ20Zdv0I8yrouIRK-8" value="step 4&lt;br&gt;reset staging table" style="rounded=0;whiteSpace=wrap;html=1;textShadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="tl7bZ20Zdv0I8yrouIRK-8" value="step 5&lt;br&gt;write DB to staging table" style="rounded=0;whiteSpace=wrap;html=1;textShadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="500" y="770" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
