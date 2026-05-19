@@ -8,7 +8,7 @@
           <mxGeometry x="90" y="130" width="65" height="52" as="geometry" />
         </mxCell>
         <mxCell id="wEZSX0jATtOGBDiv_-WV-4" value="" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/computer_and_terminals/Server_Desktop.svg;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="250" y="112" width="55.22" height="70" as="geometry" />
+          <mxGeometry x="240" y="112" width="55.22" height="70" as="geometry" />
         </mxCell>
         <mxCell id="wEZSX0jATtOGBDiv_-WV-5" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.data;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="385" y="112" width="57.73" height="70" as="geometry" />
@@ -21,14 +21,14 @@
         </mxCell>
         <mxCell id="wEZSX0jATtOGBDiv_-WV-7" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="277.32" y="360" as="sourcePoint" />
-            <mxPoint x="277.32" y="190" as="targetPoint" />
+            <mxPoint x="267.32" y="360" as="sourcePoint" />
+            <mxPoint x="267.32" y="190" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="wEZSX0jATtOGBDiv_-WV-8" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="140" y="380" as="sourcePoint" />
-            <mxPoint x="140" y="210" as="targetPoint" />
+            <mxPoint x="413.58" y="360" as="sourcePoint" />
+            <mxPoint x="413.58" y="190" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
