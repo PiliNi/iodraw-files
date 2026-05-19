@@ -49,7 +49,7 @@
             <mxPoint x="320" y="138" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="wEZSX0jATtOGBDiv_-WV-11" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#30ab5f;shape=mxgraph.mscae.enterprise.settings" vertex="1" parent="wEZSX0jATtOGBDiv_-WV-13">
+        <mxCell id="wEZSX0jATtOGBDiv_-WV-11" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#30ab5f;shape=mxgraph.mscae.enterprise.settings;opacity=70;" vertex="1" parent="wEZSX0jATtOGBDiv_-WV-13">
           <mxGeometry x="298.87" y="148" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="wEZSX0jATtOGBDiv_-WV-17" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="wEZSX0jATtOGBDiv_-WV-13">
