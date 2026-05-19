@@ -43,6 +43,9 @@
             <mxPoint x="410" y="250" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="wEZSX0jATtOGBDiv_-WV-11" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#505050;shape=mxgraph.mscae.enterprise.settings" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="388.87" y="260" width="50" height="50" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
