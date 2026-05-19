@@ -62,7 +62,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="wEZSX0jATtOGBDiv_-WV-18" value="Browser" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="70" y="50" width="60" height="30" as="geometry" />
+          <mxGeometry x="90" y="90" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
