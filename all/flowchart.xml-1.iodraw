@@ -82,11 +82,14 @@
             <mxPoint x="100" y="120" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="wEZSX0jATtOGBDiv_-WV-25" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="500" y="195" width="30" height="15" as="geometry" />
+        <mxCell id="wEZSX0jATtOGBDiv_-WV-26" value="" style="group;perimeterSpacing=3;" vertex="1" connectable="0" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="510" y="270" width="30" height="15" as="geometry" />
         </mxCell>
-        <mxCell id="wEZSX0jATtOGBDiv_-WV-24" value="&lt;b&gt;SP&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="500" y="195" width="30" height="15" as="geometry" />
+        <mxCell id="wEZSX0jATtOGBDiv_-WV-25" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=0;" vertex="1" parent="wEZSX0jATtOGBDiv_-WV-26">
+          <mxGeometry width="30" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="wEZSX0jATtOGBDiv_-WV-24" value="&lt;b&gt;SP&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="wEZSX0jATtOGBDiv_-WV-26">
+          <mxGeometry width="30" height="15" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
